@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/aula9.dir/fraction.c.o CMakeFiles/aula9.dir/testfraction.c.o CMakeFiles/aula9.dir/queue.c.o CMakeFiles/aula9.dir/stack.c.o CMakeFiles/aula9.dir/abp.c.o CMakeFiles/aula9.dir/testabp.c.o CMakeFiles/aula9.dir/simabp.c.o  -o aula9.exe -Wl,--out-implib,libaula9.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
