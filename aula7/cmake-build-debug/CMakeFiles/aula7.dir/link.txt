@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/aula7.dir/main.c.o  -o aula7.exe -Wl,--out-implib,libaula7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
