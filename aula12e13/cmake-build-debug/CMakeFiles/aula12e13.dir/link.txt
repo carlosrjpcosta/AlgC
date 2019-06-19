@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/aula12e13.dir/digraph.c.o CMakeFiles/aula12e13.dir/testdigraph.c.o CMakeFiles/aula12e13.dir/simdigraph.c.o CMakeFiles/aula12e13.dir/queue.c.o  -o aula12e13.exe -Wl,--out-implib,libaula12e13.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
